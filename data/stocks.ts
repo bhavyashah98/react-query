@@ -18,5 +18,10 @@ export const stocks = [
     id: 4,
     name: "RELIANCE",
     price: 2350,
+  },
+  {
+    id: 5,
+    name: "INFY",
+    price: 1850
   }
 ];
